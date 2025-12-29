@@ -4,11 +4,11 @@
 
 - Выполнил R&D на интерфейс канбан-доски - есть лучший nested drag'n'drop. Мне непонятно, где там AI. Но некоторые сделали HelpDesk AI (с блекджеком и танцовщицами). https://www.crunchbase.com/organization/serval-a045#financials
 
-- ИИ-репититор по ЕГЭ. Но конкурировать с Яшей? https://github.com/comerc/lms/blob/main/BRAINSTORM.md
+- ИИ-репетитор по ЕГЭ. Но конкурировать с Яшей? https://github.com/comerc/lms/blob/main/BRAINSTORM.md
 
 - Токеномика для кожаных соучастников. https://youtube.com/live/UXm_ARAc_nA
 
-- Зубрилка для школьников и дислексиков, как абстакция над ИИ-репититорорм.
+- Зубрилка для школьников и дислексиков, как абстакция над ИИ-репетитором.
 
 - AI-двойник психолога. Оцифровывает каждого в RAG. Выход в тираж для страждущих. https://github.com/comerc/white-hat/blob/main/PSI.md
 
